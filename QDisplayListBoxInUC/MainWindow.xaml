@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MasterDetail0202Detail"
         mc:Ignorable="d"
-        d:DataContext="{d:DesignInstance Type=local:MainWindowViewModel , IsDesignTimeCreatable=True}"
+        d:DataContext="{d:DesignInstance Type=local:MainWindow, IsDesignTimeCreatable=True}"
         Title="MainWindow" Height="450" Width="800">
     <Grid Margin="0,1,0,-1">                
         <GroupBox Header="Master" Grid.Column="0" Grid.Row="1">                           
